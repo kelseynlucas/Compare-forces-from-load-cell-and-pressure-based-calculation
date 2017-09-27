@@ -2,7 +2,10 @@
 """
 Created on Sun Sep 17 12:31:21 2017
 
-@author: Kelsey
+@author: Kelsey N Lucas
+
+Perform an FFT analysis on queen2 forces and torques calculated using 0.002s, 0.004s, and 0.01s time steps.
+
 
 """
 
